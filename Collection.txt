@@ -1,0 +1,13 @@
+Soit la collection uneCol := #(1 2 3 -44 0 5 6 4 5 -3 22 1 2 5)…
+
+1.l’expression qui rend la liste des nombres positifs
+	uneCol abs.
+
+2.l’expression qui rend la liste des carrés des nombres
+	uneCol collect: [ :each | each squared ].
+
+3.l’expression qui rend la somme des nombres
+	uneCol sum.
+
+4.l’expression qui rend le premier nombre négatif
+	uneCol detect: [ :each | each < 0 ].
