@@ -1,4 +1,4 @@
 ## L3S6 Meta — Dépôt modèle
 
-- session: janvier-février YYYY
-- étudiant(e): Prenom NOM
+- session: Option S6 Licence 3 Informatique
+- étudiant: Elkamili Ayoub
